@@ -14,21 +14,21 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="pref_camera_picturesize_entry_12_8mp">12.8M pixels</string>
-    <string name="pref_camera_picturesize_entry_11_5mp">11.5M pixels</string>
-    <string name="pref_camera_picturesize_entry_9mp">9M pixels</string>
-    <string name="pref_camera_picturesize_entry_6_4mp">6.4M pixels</string>
-    <string name="pref_camera_picturesize_entry_6mp">6M pixels</string>
-    <string name="pref_camera_picturesize_entry_4_5mp">4.5M pixels</string>
-    <string name="pref_camera_picturesize_entry_3_7mp">3.7M pixels</string>
-    <string name="pref_camera_picturesize_entry_2_5mp">2.5M pixels</string>
-    <string name="pref_camera_picturesize_entry_2_1mp">2.1M pixels</string>
-    <string name="pref_camera_picturesize_entry_1_9mp">1.9M pixels</string>
-    <string name="pref_camera_picturesize_entry_1_5mp">1.5M pixels</string>
+    <string name="pref_camera_storage_title">ストレージ</string>
+    <string name="pref_camera_picturesize_entry_12_8mp">12.8メガピクセル</string>
+    <string name="pref_camera_picturesize_entry_11_5mp">11.5メガピクセル</string>
+    <string name="pref_camera_picturesize_entry_9mp">9メガピクセル</string>
+    <string name="pref_camera_picturesize_entry_6_4mp">6.4メガピクセル</string>
+    <string name="pref_camera_picturesize_entry_6mp">6メガピクセル</string>
+    <string name="pref_camera_picturesize_entry_4_5mp">4.5メガピクセル</string>
+    <string name="pref_camera_picturesize_entry_3_7mp">3.7メガピクセル</string>
+    <string name="pref_camera_picturesize_entry_2_5mp">2.5メガピクセル</string>
+    <string name="pref_camera_picturesize_entry_2_1mp">2.1メガピクセル</string>
+    <string name="pref_camera_picturesize_entry_1_9mp">1.9メガピクセル</string>
+    <string name="pref_camera_picturesize_entry_1_5mp">1.5メガピクセル</string>
     <string name="pref_camera_picturesize_entry_wxga">WXGA</string>
     <string name="pref_camera_picturesize_entry_xga">XGA</string>
     <string name="pref_camera_picturesize_entry_svga">SVGA</string>
     <string name="pref_camera_picturesize_entry_wvga">WVGA</string>
     <string name="pref_camera_picturesize_entry_wqvga">WQVGA</string>
-    <string name="pref_camera_storage_title">Armazenamento</string>
 </resources>
